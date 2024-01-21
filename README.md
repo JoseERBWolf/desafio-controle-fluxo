@@ -1,6 +1,8 @@
 #Dasafio - DIO
 
-##Objetivo
+---
+
+#Objetivo
 
 - Receber dois valores inteiros pelo teclado.
 - Criar um método contador.
@@ -8,4 +10,3 @@
   inteiro.
 - Caso não seja, devemos interar o valor subtraído do parametro dois pelo parâmetro um. P1 = 5 e P2 = 15, a interação
   ocorrerá 10 vezes.
-- 
